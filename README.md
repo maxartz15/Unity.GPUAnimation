@@ -1,3 +1,7 @@
+# Install 2020-HDRP-Package
+
+https://github.com/maxartz15/Unity.GPUAnimation.git#2020-HDRP-Package
+
 # Overview
 
 Simple but very fast GPU vertex shader based animation system for Unity.Entities

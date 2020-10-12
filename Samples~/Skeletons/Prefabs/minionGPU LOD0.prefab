@@ -32,8 +32,8 @@ MonoBehaviour:
   RandomizeStartTime: 1
   ClipIndex: 0
   RandomzeMinMaxSpeed:
-    x: -1
-    y: 1
+    x: 0.5
+    y: 1.5
 --- !u!1001 &690739406792008271
 PrefabInstance:
   m_ObjectHideFlags: 0

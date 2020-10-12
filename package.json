@@ -9,15 +9,16 @@
     "com.unity.entities": "0.9.1-preview.15",
     "com.unity.rendering.hybrid": "0.5.2-preview.4"
   },
-
-  
   "keywords": [
     "entities",
     "unity",
     "animation"
+  ],
+  "samples": [
+    {
+      "displayName": "Example 1",
+      "description": "Spooky GPU skeletons.",
+      "path": "Samples~/Skeletons"
+    }
   ]
 }
-
-
-
-
